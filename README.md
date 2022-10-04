@@ -8,17 +8,20 @@ This is a mod of ext-remover that targets GoGuardian, a shit spyware app that ha
 entire right click bookmark bar and click Add page...
 • set Name: to whatever you want, i recommend just naming it spam
 • set URL: to 
-
-> javascript:fetch(`https://raw.githubusercontent.com/rice-a-rona/ext-remover/main/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
-
+```
+javascript:fetch(`https://raw.githubusercontent.com/rice-a-rona/ext-remover/main/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
+```
+• Alternative, copy  the code from gui.js and use that as the URL
 • click Save
 
 2. Using
 
 • spam click the bookmark you just made
 • do not stop until you get the message
-```Web Store
-Go Guardians ass has been blasted```
+```
+Web Store
+Go Guardians ass has been blasted
+```
 or similar
 
 3. That's it 
