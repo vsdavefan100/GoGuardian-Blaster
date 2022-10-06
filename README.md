@@ -1,7 +1,7 @@
 # **THIS IS A FORK OF THE ORIGINAL EXPLOIT LTBEEF, MADE BY BYPASSI AND 3kh0!**
 # **ORIGINAL INSTRUCTIONS FOUND BELOW**
 
-This is a mod of ext-remover that targets GoGuardian, a shit spyware app that has been know to let "teachers" [spy on the users](https://chicago.suntimes.com/education/2020/10/5/21497946/cps-public-schools-go-guardian-technology-privacy-remote-learning)
+This is a mod of ext-remover that targets GoGuardian, a shit spyware app that has been know to let "teachers" [spy on the users](https://chicago.suntimes.com/education/2020/10/5/21497946/cps-public-schools-go-guardian-technology-privacy-remote-learning), and a few more (listed below)
 
 ## Instructions
 
@@ -25,6 +25,13 @@ Go Guardians ass has been blasted
 or similar
 
 3. That's it 
+
+## Currently Blocks
+
+GoGuardian, Dyknow, Lanschool, Lightspeed Filter, Hapara, Netsupport, and Mythware
+
+Send me the name and extension ID and I'll add it to the list!
+
 
 - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
